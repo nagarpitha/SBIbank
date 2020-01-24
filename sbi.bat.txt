@@ -1,1 +1,1 @@
-echo "my new training"
+echo "my new training and placements "
